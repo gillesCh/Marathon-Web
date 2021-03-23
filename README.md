@@ -39,7 +39,7 @@ Wikipédia et/ou articles journalistiques
 Nous utiliserons la méthode hybride: 
 Dans un premier temps, nous travaillerons ensemble sur l’analyse des besoins et dans un second temps, nous mettrons en place la méthode agile SCRUM pour une amélioration continue du projet. 
 
-## A chaque début de sprint:
+## À chaque début de sprint:
 
 * Effectuer un meeting 
 * 10 mn pour booster l'équipe et définir les tâches.
