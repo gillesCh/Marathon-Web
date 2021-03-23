@@ -37,7 +37,15 @@ Wikipédia et/ou articles journalistiques
 
 ## Méthologie:
 Nous utiliserons la méthode hybride: 
-Dans un premier temps, nous travaillerons ensemble sur l’analyse des besoins et dans un second temps, nous mettrons en place la méthode agile SCRUM pour une amélioration continue du projet.  
+Dans un premier temps, nous travaillerons ensemble sur l’analyse des besoins et dans un second temps, nous mettrons en place la méthode agile SCRUM pour une amélioration continue du projet. 
+
+## A chaque début de sprint:
+
+* Effectuer un meeting 
+* 10mn d'actu motivante sur le projet
+* 5mn par personne pour dire ce qu'elle a terminé, ce qu'elle fait ensuite, et enventuels points de blocage
+puis slots de 5mn max par point éventuel concernant toute l'équipe
+mettre à jour monday.com, puis partager un compte-rendu avec l'équipe
 
 Lien vers google drive
 [Google Drive](https://drive.google.com/drive/folders/1S2ucRHzngZRu12YsNRYf6kL8s5TDFIQT?usp=sharing)
@@ -57,6 +65,11 @@ Site Web | CNO et MIASHS |
 Flyers | CNO |
 Vidéos | CNO et MIASHS |
 Affiches | CNO |
+
+## Outils
+
+* Git: pour stocker le code source produit,
+et garder une traçabilité des commits.
 
 
 
