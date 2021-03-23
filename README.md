@@ -68,6 +68,16 @@ et garder une traçabilité des commits.
 savoir à tout moment qui bosse sur quoi, et quelle tâche en est où.
 * [Google Drive](https://drive.google.com/drive/folders/1S2ucRHzngZRu12YsNRYf6kL8s5TDFIQT?usp=sharing)
 
+## APIs
+
+* API Emvista
+* API Google Map
+
+## Site Web
+* On part sur la base d'un template HTML/CS pour l'adapter
+
+
+
 
 
 
