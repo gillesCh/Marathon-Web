@@ -89,9 +89,9 @@ var map = new google.maps.Map(document.getElementById("carte"),myOptions);
 	infowindow1.open(map, marker1);  
 	});
   google.maps.event.addListener(marker1, 'mouseover',	function() { 
-    // Ouverture de l'infobulle 
-	infowindow1.close(map, marker1);  
-	});  
+    // Fermeture de l'infobulle 
+	 infowindow1.close();
+	
 		
 //**************************************************************************************************//		
 	 
