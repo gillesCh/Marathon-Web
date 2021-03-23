@@ -77,16 +77,20 @@ var map = new google.maps.Map(document.getElementById("carte"),myOptions);
 	  
 //***********************************infobulle par marker********************************************//  
 	
-	// On cr�e une infobulle
+	// On crée une infobulle
 	var infowindow1 = new google.maps.InfoWindow({         maxWidth: 300, 
-	//On d�finit la position d'origine de l'infoWindow (la position du marqueur) 
+	//On définit la position d'origine de l'infoWindow (la position du marqueur) 
 	position: new google.maps.LatLng(48.855141,2.341303), 
-	//On d�finit le texte � afficher dans l'infoWindow 
+	//On définit le texte à afficher dans l'infoWindow 
 	content: "<a><span style='text-align:center; font-size:18px; font-weight:bold; color: #236342;'>Paris</span></a><br /><a><span style='color: #236342;'>Centre de la capitale Fran�aise</span></a><br /><a><span style='color: #236342;'></span></a><br />"   });
 	//On ajoute un listener d'�v�nement : on �coute le clic sur le marqueur
 	google.maps.event.addListener(marker1, 'mouseover',	function() { 
     // Ouverture de l'infobulle 
 	infowindow1.open(map, marker1);  
+	});
+  google.maps.event.addListener(marker1, 'mouseover',	function() { 
+    // Ouverture de l'infobulle 
+	infowindow1.close(map, marker1);  
 	});  
 		
 //**************************************************************************************************//		
