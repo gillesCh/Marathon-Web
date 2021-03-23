@@ -59,7 +59,7 @@ Tâches | Rôles |
  --- | --- |
 Analyse des besoins| CNO et MIASHS | 
 Extraction des données | MIASHS | 
-Analyse semantique des données | MIASHS | 
+Analyse sémantique des données | MIASHS | 
 Cartographie | MIASHS |
 Site Web | CNO et MIASHS |
 Flyers | CNO |
