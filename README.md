@@ -44,7 +44,8 @@ Dans un premier temps, nous travaillerons ensemble sur l’analyse des besoins e
 * Effectuer un meeting 
 * 10 mn pour booster l'équipe et définir les tâches.
 * 5 mn par personne pour dire ce qu'elle a terminé, ce qu'elle fait ensuite.
-mettre à jour monday.com, puis partager un compte-rendu avec l'équipe
+* Mettre à jour monday.com, puis partager un compte-rendu avec l'équipe.
+
 
 Lien vers google drive
 [Google Drive](https://drive.google.com/drive/folders/1S2ucRHzngZRu12YsNRYf6kL8s5TDFIQT?usp=sharing)
@@ -69,8 +70,8 @@ Affiches | CNO |
 
 * Git: pour stocker le code source produit,
 et garder une traçabilité des commits.
-* monday.com: pour lister, planifier, s'attribuer, puis archiver les taches ,
-savoir à tout moment qui bosse sur quoi, et quelle tache en est où,
+* [monday.com](https://drive.google.com/drive/folders/1S2ucRHzngZRu12YsNRYf6kL8s5TDFIQT?usp=sharing): pour lister, planifier, s'attribuer, puis archiver les taches ,
+savoir à tout moment qui bosse sur quoi, et quelle tache en est où.
 
 
 
