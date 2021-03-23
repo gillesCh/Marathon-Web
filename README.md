@@ -69,6 +69,8 @@ Affiches | CNO |
 
 * Git: pour stocker le code source produit,
 et garder une traçabilité des commits.
+* monday.com: pour lister, planifier, s'attribuer, puis archiver les taches ,
+savoir à tout moment qui bosse sur quoi, et quelle tache en est où,
 
 
 
