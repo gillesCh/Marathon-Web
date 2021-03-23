@@ -82,13 +82,17 @@ var map = new google.maps.Map(document.getElementById("carte"),myOptions);
 	//On définit la position d'origine de l'infoWindow (la position du marqueur) 
 	position: new google.maps.LatLng(48.855141,2.341303), 
 	//On définit le texte à afficher dans l'infoWindow 
-	content: "<a><span style='text-align:center; font-size:18px; font-weight:bold; color: #236342;'>Paris</span></a><br /><a><span style='color: #236342;'>Centre de la capitale Fran�aise</span></a><br /><a><span style='color: #236342;'></span></a><br />"   });
-	//On ajoute un listener d'�v�nement : on �coute le clic sur le marqueur
+	content: "<a><span style='text-align:center; font-size:18px; font-weight:bold; color: #236342;'>Paris</span></a><br /><a><span style='color: #236342;'>Centre de la capitale Française</span></a><br /><a><span style='color: #236342;'></span></a><br />"   });
+	//On ajoute un listener d'évènement : on écoute le clic sur le marqueur
 	google.maps.event.addListener(marker1, 'mouseover',	function() { 
     // Ouverture de l'infobulle 
-	infowindow1.open(map, marker1);  
+	  infowindow1.open(map, marker1);  
 	});
-	infowindow1.close();
+  google.maps.event.addListener(marker1, 'mouseout', function(){
+    //Fermeture de l'info bulle
+    infowindow1.close();
+  });
+	
 	
 		
 //**************************************************************************************************//		
