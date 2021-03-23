@@ -15,7 +15,7 @@ Emvista développe des briques logicielles pour comprendre le langage naturel. L
 ## Enjeux 
 * Permettre de visualiser le parcours de vie d’une personnalité.
 * Proposer un produit digital pour le tourisme culturel
-* * Savoir pour un utilisateur en un coup d’oeil si l’ensemble documentaire considéré concerne la zone géographique qui l’intéresse.
+    * Savoir pour un utilisateur en un coup d’oeil si l’ensemble documentaire considéré concerne la zone géographique qui l’intéresse.
 
 ## Cas d'étude
  L’étude des biographies de personnalités dans Wikipedia et/ou dans des articles journalistiques. À partir du texte décrivant [la vie de Jean Moulin ](https://fr.wikipedia.org/wiki/Jean_Moulin), la carte devrait permettre de visualiser ses déplacements depuis sa naissance à Béziers jusqu’à sa mort à Metz.
