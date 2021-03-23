@@ -42,9 +42,8 @@ Dans un premier temps, nous travaillerons ensemble sur l’analyse des besoins e
 ## A chaque début de sprint:
 
 * Effectuer un meeting 
-* 10mn d'actu motivante sur le projet
-* 5mn par personne pour dire ce qu'elle a terminé, ce qu'elle fait ensuite, et enventuels points de blocage
-puis slots de 5mn max par point éventuel concernant toute l'équipe
+* 10 mn pour booster l'équipe et définir les tâches.
+* 5 mn par personne pour dire ce qu'elle a terminé, ce qu'elle fait ensuite.
 mettre à jour monday.com, puis partager un compte-rendu avec l'équipe
 
 Lien vers google drive
