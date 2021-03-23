@@ -67,6 +67,14 @@ et garder une traçabilité des commits.
 * [monday.com](https://projet-emvista.monday.com/boards/1149481976): pour lister, planifier, s'attribuer, puis archiver les tâches ,
 savoir à tout moment qui bosse sur quoi, et quelle tâche en est où.
 * [Google Drive](https://drive.google.com/drive/folders/1S2ucRHzngZRu12YsNRYf6kL8s5TDFIQT?usp=sharing)
+*  Indesign
+*  Illustrator
+*  Adobe XD
+*  After Effects
+*  Final Cut Pro 
+*  Canva
+*  Jupiter
+
 
 ## APIs
 
