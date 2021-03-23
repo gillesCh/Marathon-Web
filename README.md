@@ -70,8 +70,8 @@ Affiches | CNO |
 
 * Git: pour stocker le code source produit,
 et garder une traçabilité des commits.
-* [monday.com](https://drive.google.com/drive/folders/1S2ucRHzngZRu12YsNRYf6kL8s5TDFIQT?usp=sharing): pour lister, planifier, s'attribuer, puis archiver les taches ,
-savoir à tout moment qui bosse sur quoi, et quelle tache en est où.
+* [monday.com](https://drive.google.com/drive/folders/1S2ucRHzngZRu12YsNRYf6kL8s5TDFIQT?usp=sharing): pour lister, planifier, s'attribuer, puis archiver les tâches ,
+savoir à tout moment qui bosse sur quoi, et quelle tâche en est où.
 
 
 
