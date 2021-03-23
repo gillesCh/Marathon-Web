@@ -47,12 +47,6 @@ Dans un premier temps, nous travaillerons ensemble sur l’analyse des besoins e
 * Mettre à jour monday.com, puis partager un compte-rendu avec l'équipe.
 
 
-Lien vers google drive
-[Google Drive](https://drive.google.com/drive/folders/1S2ucRHzngZRu12YsNRYf6kL8s5TDFIQT?usp=sharing)
-
-Lien vers monday.com
-[monday.com](https://drive.google.com/drive/folders/1S2ucRHzngZRu12YsNRYf6kL8s5TDFIQT?usp=sharing)
-
 ## Tâches et Rôles :
 
 Tâches | Rôles | 
@@ -72,6 +66,7 @@ Affiches | CNO |
 et garder une traçabilité des commits.
 * [monday.com](https://projet-emvista.monday.com/boards/1149481976): pour lister, planifier, s'attribuer, puis archiver les tâches ,
 savoir à tout moment qui bosse sur quoi, et quelle tâche en est où.
+[Google Drive](https://drive.google.com/drive/folders/1S2ucRHzngZRu12YsNRYf6kL8s5TDFIQT?usp=sharing)
 
 
 
