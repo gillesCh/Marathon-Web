@@ -8,27 +8,28 @@
   <div id="mapDiv" style="width: 800px; height: 500px"></div>
   <script>
     // position we will use later
-    var lat = 43.6112422;
-    var lon = 3.8767337;
+    var lat = 46.603354;
+    var lon = 1.8883335;
     // initialize map
     map = L.map('mapDiv').setView([lat, lon], 13);
     // set map tiles source
     L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
       attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors',
-      maxZoom: 18,
+      maxZoom: 5,
     }).addTo(map);
     // add marker to the map
-    marker = L.marker([lat, lon]).addTo(map);
+    marker = L.marker([43.342656, 3.213131]).addTo(map);
+    marker2 = L.marker([51.507322, -0.127647]).addTo(map);
+    marker3 = L.marker([45.796995, 4.84233]).addTo(map);
+    marker4 = L.marker([49.133333, 6.166667]).addTo(map);
+    marker5 = L.marker([43.611242, 3.876734]).addTo(map);
     // add popup to the marker
-    marker.bindPopup("<b>ACME CO.</b><br />This st. 48<br />New York").openPopup();
-    marker.event.addListener(marker, 'mouseover',	function() { 
-    // Ouverture de l'infobulle 
-	  infowindow1.open(map, marker1);  
-    });
-    marker.event.addListener(marker, 'mouseout', function(){
-      //Fermeture de l'info bulle
-      infowindow1.close();
-    });
+    marker.bindPopup("<b>Naissance à Béziers</b><p> Le 20 Juin 1899</p><img src=\"beziers.JPG\" width=150 height=100>");
+    marker2.bindPopup("<b>Déplacement à Londres</b><br/><p> Le 1er Septembre 1941 </p><img src=\"londres.JPG\" width=117 height=150>");
+    marker3.bindPopup("<b>Subit une arrestation<br/> à Caluire-et-Cuire</b><br/><p> Le 21 Juin 1943 </p><img src=\"jean_moulin_cc.JPG\" width=100 height=130>");
+    marker4.bindPopup("<b>Meurt à Metz</b><br/><p> Le 08 Juillet 1943 </p><img src=\"jean-moulin-metz.JPG\" width=130 height=79>");
+    marker5.bindPopup("<b>Jean Moulin aux Arceaux</b><br/><p> Hiver 1939 </p><img src=\"jean-moulin-arceaux.JPG\" width=105 height=153>");
+
   </script>
 </body>
 </html>
